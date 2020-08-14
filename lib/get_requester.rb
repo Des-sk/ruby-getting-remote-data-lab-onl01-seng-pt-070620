@@ -6,6 +6,8 @@ require 'json'
 
 class GetRequester
   
+  URL = 
+  
   def initialize(url)
     @url = url
   end
